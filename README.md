@@ -1,5 +1,15 @@
 # Project-202
 5 MW Small Scale Hydro power project by M/s Regent Energy Limited
+The proposed project activity with title under UCR “5 MW Small Scale Hydro Power project by
+M/s Regent Energy Limited.”, is a grid connected Hydro Electric Power project located in Kinnaur
+district in the state of Himachal Pradesh (India). The project is an operational activity with
+continuous reduction of GHG, currently being applied under “Universal Carbon Registry” (UCR).
+________________
+Purpose of the project activity:
+The proposed project activity is promoted by M/s Regent Energy Limited. (Here in after called as
+project proponent ‘PP’). The proposed project activity is installation and operation of 2 Horizontal
+axis Pelton Turbine having individual capacity 2500 kW with aggregated installed capacity of 5
+MW i.e., (2 X 2500) in District - Kinnaur, Himachal Pradesh state of India. 
 ______________
 Previous History:
 CDM Project 3022 : Rakchad Small Hydro Electric Project
