@@ -11,7 +11,9 @@ project proponent ‘PP’). The proposed project activity is installation and o
 axis Pelton Turbine having individual capacity 2500 kW with aggregated installed capacity of 5
 MW i.e., (2 X 2500) in District - Kinnaur, Himachal Pradesh state of India. 
 ______________
-UCR Issued 11/10/2022 CoUs: 110972
+UCR Issue Date MP-01: 11/10/2022 
+
+CoUs: 110972
 _______
 Serial Number: 0001-000001-001139-UCR-CoU-IN-202-11112017-31122017
 
@@ -37,15 +39,42 @@ Vintage Year: 2020
 
 CoU's:28,115
 ___________________
-Serial Number: 0001-087658-110972-UCR-CoU-IN-202-01012021-31122021
+Serial Number: 0001-082108-110972-UCR-CoU-IN-202-01012021-31122021
 
 Vintage Year: 2021
 
-CoU's Available: 23,315
+CoU's Available: 28864
 _____________
+MP-02 Period: 2022-2024
+
+Date of Issue: 03/06/2025
+
+qty: 73491 CoUs
+_________
+Serial Number: 0002-001140-026868-UCR-CoU-IN-202-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 25729
+________________
+Serial Number: 0002-026869-052872-UCR-CoU-IN-202-01012023-31122023
+
+Vintage Year: 2023
+
+Quantity: 26004
+________
+Serial Number: 0002-052873-074630-UCR-CoU-IN-202-01012024-31122024
+
+Vintage Year: 2024
+
+Quantity: 21758
+_______
 Previous History:
+
 CDM Project 3022 : Rakchad Small Hydro Electric Project
+
 CDM Crediting Period: 15 Nov 10 - 14 Nov 17 (Renewable - Expired)
+
 CDM Renewal no longer possible
 ______________
 Monitoring report: 15 Nov 2010 - 31 Dec 2011 
